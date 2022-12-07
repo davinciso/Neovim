@@ -1,8 +1,13 @@
-![Neovim](./neovim/Screenshot%20(12).png)
-![Neovim](./neovim/Screenshot%20(15).png)
-![Neovim](./neovim/Screenshot%20(19).png)
-![Neovim](./neovim/Screenshot_20221026_174422.png)
-![Neovim](./neovim/Screenshot_20221031_121708.png)
+# ***ScreenShot of customization***
+![Screenshot (11)](https://user-images.githubusercontent.com/97513759/206127281-eda4c278-95db-49f9-8e5d-29fbdbfb5eb0.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/97513759/206127359-b95feaaa-e0ac-4fc0-a7f0-cb463a8fc610.png)
+![Screenshot_20221030_114246](https://user-images.githubusercontent.com/97513759/206127515-b21ba510-ef24-4d3b-8c16-e09ae1417f3e.png)
+![Screenshot_20221031_111533](https://user-images.githubusercontent.com/97513759/206127553-b25727ae-83f8-47ba-acec-4202f83b15ff.png)
+![Screenshot_20221031_114639](https://user-images.githubusercontent.com/97513759/206127585-c3184f02-d0d1-4cd7-92fb-ff1eafca54dd.png)
+![Screenshot_20221031_121708](https://user-images.githubusercontent.com/97513759/206127594-777f1019-3855-440a-bd6c-0cbc3f2649d4.png)
+![Screenshot_20221031_113037](https://user-images.githubusercontent.com/97513759/206127598-94260a03-f70d-4d7b-b912-26a520c7ae11.png)
+![Screenshot_20221031_114629](https://user-images.githubusercontent.com/97513759/206127600-3a3d23bc-a151-4e7e-bb1c-a214ec5ee420.png)
+![Screenshot_20221030_111156](https://user-images.githubusercontent.com/97513759/206127496-1217be15-d6e1-450d-a4ec-bc16ab1e1f95.png)
 
 # Basic Neovim Customization In Windows
 
